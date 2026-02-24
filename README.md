@@ -137,7 +137,6 @@ docker-compose down
 ```
 
 
-
 ---
 
 # 💡 Tips
@@ -150,7 +149,30 @@ docker-compose up --build
 ```
 
 ---
+---
 
+# 📸 Screenshots
+
+### 🖥 Application Running
+![Application Running](screenshots/app-running.png)
+
+### 📝 Submit Exam
+![Submit Exam](screenshots/submit-exam.png)
+
+### 🗄 Database Output
+![Database Output](screenshots/database-output.png)
+
+---
+---
+
+# ☁️ Deployment
+
+- Deployed on AWS EC2 (Ubuntu Linux)
+- Used Docker & Docker Compose
+- Configured security group for port 5000
+- Managed Linux server setup and Docker installation
+
+---
 ### 🙌 Credits
 
 Original project developed by **Vedant Tambe**  

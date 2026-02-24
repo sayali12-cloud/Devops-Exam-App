@@ -7,6 +7,25 @@ A Dockerized Full Stack DevOps Exam App built using:
 - 🐬 **MySQL 5.7 (Database)**
 - 🐳 **Docker + Docker Compose**
   
+## 🚀 My Contribution (Deployment & DevOps Implementation)
+
+This project is based on the original open-source repository by Vedant Tambe.  
+My primary focus was on deployment and DevOps implementation.
+
+### 🔧 What I Implemented:
+
+- Cloned and configured the open-source application
+- Deployed the application on **AWS EC2 (Ubuntu Linux)**
+- Installed and configured Docker & Docker Compose
+- Managed multi-container setup (Flask + MySQL)
+- Configured environment variables for service communication
+- Configured AWS Security Groups to allow HTTP access
+- Verified container networking and application accessibility
+- Monitored and troubleshot logs using Docker CLI
+
+This project helped me gain hands-on experience in containerization, Linux server management, and cloud deployment.
+
+---
 
 # 🚀 Setup Instructions
 
@@ -117,6 +136,8 @@ SELECT * FROM results;
 docker-compose down
 ```
 
+
+
 ---
 
 # 💡 Tips
@@ -130,8 +151,9 @@ docker-compose up --build
 
 ---
 
-### 🙌 Author
+### 🙌 Credits
 
-Built with ❤️ by **Vedant Tambe**
+Original project developed by **Vedant Tambe**  
+Deployment and DevOps implementation by **Sayali Adsul**
 
 
